@@ -55,6 +55,7 @@ Welcome to my GitHub profile! I'm Apexio, an experienced developer with a divers
 - V-ray: Intermediate
 - AutoCAD: Intermediate+
 - Sketchup: Advanced
+- Lumion: Intermediate
 
 Feel free to reach out to me for collaboration or discussions related to these skills. I'm passionate about technology and always open to new opportunities and challenges.
 
