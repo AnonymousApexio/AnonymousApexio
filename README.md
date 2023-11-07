@@ -1,8 +1,12 @@
 # Apexio's Developer Profile
 
+![téléchargement](https://github.com/AnonymousApexio/AnonymousApexio/assets/149327582/7b113165-f541-404c-9211-bd3a5929478b)
+
+> "Code is poetry, and I'm the poet." 🚀
+
 Welcome to my GitHub profile! I'm Apexio, an experienced developer with a diverse skill set and a passion for technology. Below, you'll find an overview of my proficiency in various programming languages, OS customization, frameworks, cybersecurity, DevOps, and 3D software.
 
-## Developing Skills
+🛠 **Developing Skills**
 - HTML: Advanced
 - CSS: Intermediate
 - JavaScript (JS): Intermediate
@@ -15,20 +19,20 @@ Welcome to my GitHub profile! I'm Apexio, an experienced developer with a divers
 - Visual Studio Code: Advanced
 - Sublime Text: Intermediate+
 
-## OS Customization
+🖥 **OS Customization**
 - Windows OS: Advanced
 - Linux: Intermediate+
 - MacOS: Novice
 
-## Frameworks
+🚀 **Frameworks**
 - Microsoft Office: Advanced
 - Ruby: Novice
-- Node.js: Novice
+- Node.js: Novice+
 - Angular: Novice+
 - Vue.js: Novice
 - React: Intermediate
 
-## CyberSecurity
+🔒 **CyberSecurity**
 - Network TCP/IP: Advanced
 - Web Pentesting: Intermediate+
 - Cybersecurity Kali: Intermediate
@@ -39,13 +43,13 @@ Welcome to my GitHub profile! I'm Apexio, an experienced developer with a divers
 - Metasploit: Intermediate
 - Wireshark: Intermediate+
 
-## DevOps
+⚙ **DevOps**
 - Docker: Moderate
 - Google Cloud: Intermediate
 - Git: Novice+
 - Kubernetes: Novice
 
-## 3D Software
+🎮 **3D Software**
 - Blender: Intermediate+
 - Unity: Advanced
 - V-ray: Intermediate
@@ -53,3 +57,5 @@ Welcome to my GitHub profile! I'm Apexio, an experienced developer with a divers
 - Sketchup: Advanced
 
 Feel free to reach out to me for collaboration or discussions related to these skills. I'm passionate about technology and always open to new opportunities and challenges.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousApexio)](https://github.com/anuraghazra/github-readme-stats)
