@@ -5,7 +5,7 @@
 > "Code is poetry, and I'm the poet." 🚀
 
 Welcome to my GitHub profile! I'm Apexio, an experienced developer with a diverse skill set and a passion for technology. Below, you'll find an overview of my proficiency in various programming languages, OS customization, frameworks, cybersecurity, DevOps, and 3D software.
-# Apexio's Skills
+# Apex's Skills
 
 ## 🛠 Developing Skills
 - **HTML:** Advanced (7y)
