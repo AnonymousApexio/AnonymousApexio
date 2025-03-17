@@ -2,7 +2,7 @@
 
 ![muIDLN](https://github.com/AnonymousApexio/AnonymousApexio/assets/149327582/e636c214-43ae-4bd4-af69-ea58bf9439bd)
 
-> "Code is poetry, and I'm the poet." 🚀
+> "Computing is an art, and I'm the Artist." 🚀
 
 Welcome to my GitHub profile! I'm Apex, an experienced computer enthusiast with a diverse skill set and a passion for technology. Below, you'll find an overview of my proficiency in various domains of computing.
 # Apex's Skills
